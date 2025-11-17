@@ -1,7 +1,7 @@
 
-  # LABSYNC
+  # BioSecurity
 
-  This is a code bundle for LABSYNC. The original project is available at https://www.figma.com/design/ZQF5AXRgjq2IatKwcGhM0D/LABSYNC.
+  This is a code bundle for BioSecurity. The original project is available at https://www.figma.com/design/ZQF5AXRgjq2IatKwcGhM0D/LABSYNC.
 
   ## Running the code
 
