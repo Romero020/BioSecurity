@@ -6,7 +6,9 @@
   export default defineConfig({
     base: './',
     plugins: [react()],
-    resolve: {
+    resolve: { ... },
+    build: { target: 'esnext', outDir: 'dist' },
+    server: { port: 3000, open: true }
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
         'vaul@1.1.2': 'vaul',
